@@ -1,0 +1,7 @@
+v1: no change
+
+v2: o/p presented as string, punctuation is incl in summary.
+
+v3: % is taken as user input, added stats parser if statement.
+
+v4: added key(repl noun) to output, "summary generated for the month of", works again lol
